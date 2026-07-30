@@ -14,29 +14,156 @@
 ---
 
 ### 💫 About Me
-- 🔭 Saat ini sedang fokus mengembangkan proyek **Software Engineering & Database Architecture**
-- 🌱 Mempelajari lebih dalam tentang **Clean Code, C, Python, dan Web Development**
-- 💬 Buka diskusi tentang **Programming, Computer Vision, dan Database Design**
-- 📫 Terhubung dengan saya di LinkedIn atau Instagram di bawah ini!
 
----
 
-### 🛠️ Tech Stack & Tools
+###
 
-<p align="left">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <br/>
-  <!-- Tools & Databases -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+<h2 align="center">Tech Stack</h2>
 
+###
+
+<br clear="both">
+
+<h4 align="left">Front End</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="43" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="43" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="43" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="43" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="43" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://wxt.dev/hero-logo.svg" height="43" alt="wxt logo"  />
+  <img width="12" />
+  <img src="https://i.imgur.com/NId23A7.png" height="43" alt="lit logo"  />
+  <img width="12" />
+  <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" height="43" alt="zustand logo"  />
+  <img width="12" />
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*elhu-42TzQEdsFjKDbQhhA.png" height="43" alt="react query logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="43" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="43" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://tanstack.com/images/logos/logo-color-banner-600.png" height="43" alt="tanstack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" height="43" alt="react router logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="43" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://i.imgur.com/EVZo0Ez.png" height="43" alt="expo logo"  />
+  <img width="12" />
+  <img src="https://i.imgur.com/N5CGu4h.png" height="43" alt="react native logo"  />
+  <img width="12" />
+</div>
+
+###
+
+<h4 align="right">Back End</h4>
+
+###
+
+<div align="right">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://i.imgur.com/cTpPPL2.png" height="40" alt="tinybase logo"  />
+  <img width="12" />
+  <img src="https://qdrant.tech/img/brand-resources-logos/qdrant-brandmark-red.png" height="40" alt="qdrant logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://icon.icepanel.io/Technology/svg/RabbitMQ.svg" height="40" alt="rabbitmq logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://i.imgur.com/x6VrALh.png" height="40" alt="bun logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://i.imgur.com/lVPmj4W.png" height="40" alt="elysia logo"  />
+  <img width="12" />
+  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/hono-6ge6rolcrcsqnvk7r685s.png/hono-lni310gpnzm7h0sumu9xrk.png?_a=DAJFJtWIZAAC" height="40" alt="hono logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/langchain.png" height="40" alt="langchain logo"  />
+  <img width="12" />
+  <img src="https://ai-sdk.dev/apple-icon.png?6cd1287311014dd7" height="40" alt="ai sdk logo"  />
+  <img width="12" />
+  <img src="https://media.licdn.com/dms/image/v2/D560BAQGXzI4c3FMP4Q/company-logo_200_200/B56ZpvUV0AI8AI-/0/1762804194897/mastra_ai_logo?e=2147483647&v=beta&t=b1Kbl1GVZsaO_8xhna3Fc2EUDm0uwTzlnMjzpTfau2A" height="40" alt="mastra logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://images.opencollective.com/drizzle-orm/9405e48/logo/256.png" height="40" alt="drizzle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h4 align="left">Dev Tools & Infra</h4>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://i.imgur.com/UyHkVWw.png" height="40" alt="linear logo"  />
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMLlNkfiVjeIdE8Sw7_GmVbxfOaqo-GnRX3w&s" height="40" alt="kilocode logo"  />
+  <img width="12" />
+  <img src="https://pages.cloudflare.com/resources/logo/logo.svg" height="40" alt="cloudflare pages"  />
+  <img width="12" />
+  <img src="https://i.imgur.com/921BcO2.png" height="40" alt="cloudflare workers"  />
+  <img width="12" />
+  <img src="https://devicons.railway.com/i/railway-light.svg" height="40" alt="railway logo"  />
+  <img width="12" />
+  <img src="https://files.raycast.com/83i2w4in6yeldptw11g5ecsmap1l" height="40" alt="dokploy logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://devicons.railway.com/i/n8n.svg" height="40" alt="n8n logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/sentry/362D59" height="40" alt="sentry logo"  />
+  <img width="12" />
+  <img src="https://i.imgur.com/PB1KYXf.png" height="40" alt="biome logo"  />
+  <img width="12" />
+  <img src="https://bestofjs.org/logos/oxc.dark.svg" height="40" alt="oxc logo"  />
+</div>
+
+###
 ---
 
 ### 📊 GitHub Stats
