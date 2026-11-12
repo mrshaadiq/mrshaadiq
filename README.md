@@ -177,6 +177,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrshaadiq&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+### 🚀 Aktivitas Terbaru
+<!-- recent_activity starts -->
+_Belum ada data._
+<!-- recent_activity ends -->
+
 ---
 
 ### 🔗 Connect with Me
